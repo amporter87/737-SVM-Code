@@ -146,16 +146,6 @@ print(results)
 #Predict using SVM
 ##################################################################################
 
-# Model Building for BingeData - Binge drinkers c
-
-# Data Understanding: 
-# Number of Instances: 37135
-
-
-#3. Data Preparation: 
-
-setwd("F:/Chegg/Alex")
-#Loading Neccessary libraries
 
 library(kernlab)
 library(readr)
